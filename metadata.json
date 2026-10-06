@@ -1,0 +1,6 @@
+{
+  "name": "Kairosz — Vállalati Korszerűsítés & Rendszerarchitektúra",
+  "description": "Személyre szabott szoftverek, autonóm AI munkatársak, vállalatirányítási rendszerek és üzleti automatizmusok növekedésre tervezve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
